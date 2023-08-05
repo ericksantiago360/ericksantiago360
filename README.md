@@ -2,7 +2,8 @@
 - 👀 I’m interested in python 
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on local bussines cdmx
-- 📫 How to reach me eriveles@hotmail.com
+- 📫 How to reach me ericksan360@gmail.com
+- 
 
 <!---
 ericksantiago360/ericksantiago360 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
